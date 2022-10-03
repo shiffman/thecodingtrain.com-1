@@ -31,7 +31,7 @@ date: '10/03/2022'
 
 ### Interested in updating the Related Challenges field?
 
-- The `"relatedChallenges"` key specifies an array of challenges that relate to the new video. If it is an empty array and there are any coding challenges in the `"video"` section of the json, those challenge can be added to the field.
+- The `"relatedChallenges"` key specifies an array of challenges that relate to the new video. If it is an empty array and there are any coding challenges in the `"video"` section of the json file, those challenge(s) can be added to the field.
 - Head to the [Google claiming spreadsheet](https://docs.google.com/spreadsheets/d/1zt8KquMZN_j2-j4ezMsgeq-sRrgoCEAROwFS6LTS8oQ/edit#gid=1236591781) and find a challenge that needs updated.
 - You can find the json file for the challenge in the /content/videos/challenges folder.
 - Checkout a new branch (applesoft-RC) and edit the Related Challenges field.  
@@ -59,4 +59,4 @@ date: '10/03/2022'
 - You can contact us at help@codingtrain.com
 - You can also ask questions at https://discord.com/invite/hPuGy2g
 
-## Please note that SPAM pull requests are not welcome and will be marked as spam.
+## Please note that SPAM pull requests are not welcome and will be marked as spammy.
