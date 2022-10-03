@@ -53,3 +53,4 @@ date: '10/03/2022'
 }
 ```
 
+## Please note that SPAM pull requests are not welcome and will be marked as spam.
