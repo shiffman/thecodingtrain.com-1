@@ -13,7 +13,7 @@ date: '10/03/2022'
 ## How do you participate?
 
  - If you have 2 showcases accepted between October 1st and October 31st, you will be entered into a drawing to receive a Coding Train sticker pack.
- - Additionally, anyone who helps with an issue with the Hacktoberfest label will be entered into drawing to receive a a laser etched Coding Train train whistle.
+ - Additionally, anyone who has four pull requests accepted on an issue with the Hacktoberfest label will be entered into drawing to receive a a laser etched Coding Train train whistle.
 
  - If you want to be eligible for Digital Ocean prizes, register at the official [Hacktoberfest website](https://hacktoberfest.com)
  
